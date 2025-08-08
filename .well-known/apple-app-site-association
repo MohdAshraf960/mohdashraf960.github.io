@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "4J6D66R8U5.com.ultratech.utecPartner",
+        "appID": "4J6D66R8U5.com.utecbuild.partnerap",
         "paths": [
           "/seller",
           "/seller/",
@@ -11,7 +11,7 @@
         ]
       },
       {
-        "appID": "4J6D66R8U5.com.ultratech.utec",
+        "appID": "4J6D66R8U5.com.utecbuild.ihb",
         "paths": [
           "/buyer",
           "/buyer/",
