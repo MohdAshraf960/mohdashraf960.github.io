@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4J6D66R8U5.com.ultratech.utecPartner",
+        "paths": [
+          "/seller",
+          "/seller/",
+          "/seller/*"
+        ]
+      },
+      {
+        "appID": "4J6D66R8U5.com.ultratech.utec",
+        "paths": [
+          "/buyer",
+          "/buyer/",
+          "/buyer/*"
+        ]
+      },
+      {
+        "appID": "4J6D66R8U5.com.ultratech.rewardsloyalty",
+        "paths": [
+          "/loyalty",
+          "/loyalty/",
+          "/loyalty/*"
+        ]
+      }
+    ]
+  }
+}
