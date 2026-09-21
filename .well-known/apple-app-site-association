@@ -25,6 +25,14 @@
           "/loyalty/",
           "/loyalty/*"
         ]
+      },
+      {
+        "appID": "4J6D66R8U5.com.utecbuild.srtrackerlite",
+        "paths": [
+          "/srtrackerlite",
+          "/srtrackerlite/",
+          "/srtrackerlite/*"
+        ]
       }
     ]
   }
